@@ -1,0 +1,11 @@
+{
+  "model": "Salesforce/codegen-350M-mono",
+  "dataset": "iamtarun/python_code_instructions_18k_alpaca",
+  "num_samples": 16750,
+  "epochs": 6,
+  "lora_r": 32,
+  "lora_alpha": 64,
+  "final_eval_loss": 0.7038431763648987,
+  "trainable_params": 2621440,
+  "total_params": 359333888
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.streamlit/
+*.zip
+.ipynb_checkpoints/
+lora_production/
+.DS_Store
+Thumbs.db
